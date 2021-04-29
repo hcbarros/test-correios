@@ -91,12 +91,10 @@ class TestCorreios {
 			
 			String preco = values[0];
 			String prazo = values[1];
-			
-			if(contarTempo() <= 5000) {
-				assertEquals(preco, (String) obj.get("preco"));
-				assertEquals(prazo, (String) obj.get("prazo"));
-			}
-				
+						
+			assertEquals(preco, (String) obj.get("preco"));
+			assertEquals(prazo, (String) obj.get("prazo"));		
+			System.out.println(contarTempo());			
 		}
 		
 	}
