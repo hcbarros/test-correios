@@ -1,0 +1,104 @@
+
+[
+    {
+        "sCepDestino": "50010400",
+        "sCepOrigem": "01153000",
+        "nVlAltura": "10",
+        "nVlLargura": "11",
+        "nVlComprimento": "20",
+        "nVlPeso": "0,4",
+        "preco": "31,00",
+        "prazo": "7"
+    },
+    {
+        "sCepDestino": "58010810",
+        "sCepOrigem": "02739000",
+        "nVlAltura": "15",
+        "nVlLargura": "15",
+        "nVlComprimento": "15",
+        "nVlPeso": "0,7",
+        "preco": "37,10",
+        "prazo": "7"
+    },
+    {
+        "sCepDestino": "58010810",
+        "sCepOrigem": "51250370",
+        "nVlAltura": "20",
+        "nVlLargura": "20",
+        "nVlComprimento": "20",
+        "nVlPeso": "0,8",
+        "preco": "24,30",
+        "prazo": "6"
+    },
+    {
+        "sCepDestino": "49920970",
+        "sCepOrigem": "60160150",
+        "nVlAltura": "25",
+        "nVlLargura": "25",
+        "nVlComprimento": "25",
+        "nVlPeso": "1",
+        "preco": "35,40",
+        "prazo": "8"
+    },
+    {
+        "sCepDestino": "56302000",
+        "sCepOrigem": "73700000",
+        "nVlAltura": "30",
+        "nVlLargura": "30",
+        "nVlComprimento": "30",
+        "nVlPeso": "1,2",
+        "preco": "86,10",
+        "prazo": "10"
+    },
+    {
+        "sCepDestino": "78285000",
+        "sCepOrigem": "69053590",
+        "nVlAltura": "35",
+        "nVlLargura": "35",
+        "nVlComprimento": "35",
+        "nVlPeso": "0,9",
+        "preco": "154,20",
+        "prazo": "25"
+    },
+    {
+        "sCepDestino": "72260831",
+        "sCepOrigem": "96200340",
+        "nVlAltura": "40",
+        "nVlLargura": "40",
+        "nVlComprimento": "40",
+        "nVlPeso": "0,5",
+        "preco": "181,10",
+        "prazo": "12"
+    },
+    {
+        "sCepDestino": "57072970",
+        "sCepOrigem": "22041011",
+        "nVlAltura": "45",
+        "nVlLargura": "45",
+        "nVlComprimento": "45",
+        "nVlPeso": "0,3",
+        "preco": "152,90",
+        "prazo": "7"
+    },
+    {
+        "sCepDestino": "29165130",
+        "sCepOrigem": "38402324",
+        "nVlAltura": "50",
+        "nVlLargura": "50",
+        "nVlComprimento": "50",
+        "nVlPeso": "0,2",
+        "preco": "240,50",
+        "prazo": "8"
+    },
+    {
+        "sCepDestino": "69906380",
+        "sCepOrigem": "80240210",
+        "nVlAltura": "60",
+        "nVlLargura": "60",
+        "nVlComprimento": "60",
+        "nVlPeso": "1,5",
+        "preco": "457,90",
+        "prazo": "19"
+    }
+
+]
